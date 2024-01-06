@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <link rel="stylesheet" href="indexStyle.css">
+  <title> Home - gAmES </title>
+  
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+      <a class="navbar-brand" href="#">Games</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item, active">
+            <a class="nav-link" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Anisa.html">Anisa's Faves</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="Lesly.html">Lesly's Faves</a>
+          </li>  
+		<li class="nav-item">
+            <a class="nav-link" href="Adelyn.html">Adelyn's Faves</a>
+          </li>    
+        </ul>
+      </div>  
+    </nav>
+    
+    <h1>Types of Games</h1>
+	  
+	<h2> Board Games:</h2>
+	  <p>
+		  
+		 Board Games are classics. The first known board game ever made was called Senet. It was found in ancient Egyptian burials from around 3300 BC.
+		  
+	  </p>
+	  <h2> Card Games:</h2>
+	  <p>
+		We all get invested when we're in a good card game. The oldest card game known in the world was created around the  Ninth century 
+		in china during the tang dynasty.  
+	  </p>
+	  <h2> Online Games:</h2>
+	  <p>
+
+		 Online games would be any game you find and play from a desktop or other means via the internet. Unfortunately, since the fall of Flash
+		 many online games have become unavailable. A few examples are Poptropica, Animal Jam, Club Penguin, and Fireboy and Watergirl.
+		  
+	  </p>
+	  <h2> Mobile Games:</h2>
+	  <p>
+		Mobile Games can be played on smartphones and are very common. They are found in the App store in great variety. 
+		  
+	  </p>
+	  <h2> Console Games:</h2>
+	  <p> 
+		 The first console game was Pong, played on the Atari. It was released as an arcade game, but Atari Inc. converted it to the first home-console
+		 in 1975. There were only a few games to play on the Atari, and the games were imbedded on the hardrive.
+		  Console games have come a long way since then. The most popular gaming consoles now are the Microsoft Xbox, the Nintendo Switch, and
+		  Sony's Playstation.
+		  
+	  </p>
+	  <p> Check out the other pages to learn about some of our personal favorite games!</p>
+
+  </body>
+</html>
